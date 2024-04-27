@@ -31,7 +31,7 @@ nav ul li a {
 }
 
 main {
-    padding-bottom: 100px;
+    padding-bottom: 130px;
 
 }
 
@@ -43,6 +43,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    margin-top: 20px;
 }
 .tovar{
     display:flex;   
